@@ -12,7 +12,7 @@
 ## Installation & About the package
 
 ```bash
-    npm install i18next react-i18next i18next-http-backend i18next-browser-language-detector --save
+    npm install i18next react-i18next i18next-http-backend i18next-browser-languagedetector --save
 ```
 
 - `i18next` is the base package for localization, for converting the content of the page to whatever language that we want.
